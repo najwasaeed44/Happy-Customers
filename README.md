@@ -1,7 +1,7 @@
 
 
-<p style="text-align:center;"><img src="https://cdn.dribbble.com/users/1952691/screenshots/5331353/media/eccfe7af2fc335ca10339de82be599d8.gif" alt="Logo"></p>
-
+<!-- <p style="text-align:center;"><img src="https://cdn.dribbble.com/users/1952691/screenshots/5331353/media/eccfe7af2fc335ca10339de82be599d8.gif" alt="Logo"></p>
+ -->
 <p style = "font-size:10vw; text-align: center;"> Happy Customers </p>
 
 
